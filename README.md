@@ -1,3 +1,6 @@
+# Juego targetas memoria
+Esta es una version del juego Memory Game para hipermedia.
+
 # Memory-Game
 This is a memory game, created using HTML, CSS, and JavaScript.
 Rules of playing are:- 
