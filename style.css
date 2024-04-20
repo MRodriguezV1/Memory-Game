@@ -80,13 +80,13 @@ body {
 .card {
     height: 100px;
     width: 91px;
-    background-color: rgba(0, 0, 0, 0.651);
-    border-radius: 10px;
-    margin: 0px 10px;
+    background-color: rgb(238 168 54);
+    border-radius: 5px;
+    margin: 0px 15px;
     position: relative;
     transform-style: preserve-3d;
     transition: all 0.8s ease;
-    box-shadow: -3px 5px 5px 3px rgba(0, 0, 0, 0.363);
+    box-shadow: -3px 5px 5px 3px rgb(0 0 0 / 66%);
     cursor: pointer;
 }
 
