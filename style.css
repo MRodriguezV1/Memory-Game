@@ -9,6 +9,8 @@ body {
     box-sizing: border-box;
     background-color: rgb(250, 100, 0);
     display: flex;
+    background-image: url(https://hips.hearstapps.com/hmg-prod/images/dragon-ball-1662030426.jpg);
+    background-size: cover;
 }
 .board{
     height: 480px;
