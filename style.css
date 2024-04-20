@@ -13,17 +13,19 @@ body {
     background-size: cover;
 }
 .board{
-    height: 480px;
-    width: 460px;
-    background-color: aliceblue;
+    FONT-WEIGHT: 500;
+    height: 600px;
+    width: 500px;
+    background-color: rgb(233 0 0 / 58%);
     margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    perspective: 1000px;
+    perspective: 1500px;
     border-radius: 10px;
     box-shadow: -3px 5px 5px 3px rgba(0, 0, 0, 0.363);
+}
 }
 .shake {
     animation: shaking 0.35s ease-in-out;
