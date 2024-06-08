@@ -1,7 +1,5 @@
 # Juego targetas memoria
-Esta es una version del juego Memory Game para hipermedia. En ella tendran que encontrar las parejas indicadas
-![Descripcion](./Imagenes/img-7.png)
-
+Esta es una version del juego Memory Game para hipermedia. En ella tendran que encontrar las parejas indicadas para todos aquellos fans de la franquicia de Dragon Ball
 # Memory-Game
 This is a memory game, created using HTML, CSS, and JavaScript.
 Rules of playing are:- 
